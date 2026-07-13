@@ -1,0 +1,34 @@
+body{ color: rgb(237, 241, 245);
+    margin: 0;
+    min-height: 100vh;
+    background-image: url(../Img/t1.jpg);
+    background-size: cover ;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+ul li:nth-child(1) a {
+    color: rgb(1, 5, 8);
+}
+ul li:nth-child(2) a {
+    color: rgb(1, 5, 8);
+}
+ul li:nth-child(3) a {
+    color: rgb(1, 5, 8);
+}
+
+
+
+h1{
+    color:rgb(26, 15, 231) (137, 43, 226);
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 50px;
+    /* opacity: 70%;  ẩn phần tử khỏi giao diện vẫn tương tác đc và chiếm không gian 
+    /* display: none; ẩn khỏi giao diện không tương tác đc*/
+    /* visibility: hidden;  ẩn , chiếm không gian  , không tương tác được */
+}
+p{
+    color: rgb(5, 12, 19);
+}
